@@ -1,0 +1,3 @@
+[submodule "slm"]
+	path = slm
+	url = https://github.com/cstarknyc/slm
