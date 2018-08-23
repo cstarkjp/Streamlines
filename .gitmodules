@@ -1,3 +1,6 @@
 [submodule "slm"]
 	path = slm
 	url = https://github.com/cstarknyc/slm
+[submodule "slmnb"]
+	path = slmnb
+	url = https://github.com/cstarknyc/slmnb
